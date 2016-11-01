@@ -4,7 +4,7 @@ html, body {
 }
 html {
   background-color: #212121;
-  min-height: 101%; /* I know this is stupid but it is an easy way to make the scrollbar always appear (plus the css now validates) */
+  min-height: 101%; /* I know this is stupid but it is an easy way to make the scrollbar always appear*/
 }
 
 #headerimage {
