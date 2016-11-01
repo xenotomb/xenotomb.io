@@ -1,3 +1,6 @@
+nav {
+  font-family: 'Oswald', sans-serif;
+}
 nav ul {
   list-style-type: none;
   margin: 0;
@@ -17,7 +20,7 @@ nav li a, .dropbtn {
   text-decoration: none;
 }
 nav li a:hover, .dropdown:hover .dropbtn {
-  color: white;
+  color: #FFFFFF;
 }
 nav li.dropdown {
   display: inline-block;
@@ -41,4 +44,8 @@ nav .dropdown-content a:hover {
 }
 nav .dropdown:hover .dropdown-content {
   display: block;
+}
+
+.active {
+  color: #FFFFFF;
 }
