@@ -1,0 +1,49 @@
+@import url('https://fonts.googleapis.com/css?family=Noto+Sans|Oswald');
+html, body {
+  margin: 0;
+  padding: 0;
+}
+html {
+  background-color: #212121;
+  min-height: 101%; /* I know this is stupid but it is an easy way to make the scrollbar always appear*/
+}
+
+#headerimage {
+  width: 100%;
+  height: auto;
+}
+
+#content {
+  font-family: 'Noto Sans', sans-serif;
+  color: #9E9E9E;
+  width: 60%;
+  margin-left: auto;
+  margin-right: auto;
+  padding-bottom: 5em;
+}
+
+#hdot {
+  font-size: 4em;
+}
+
+.right {
+  float: right;
+  clear: left;
+  padding: 2em;
+}
+
+footer {
+  font-family: 'Noto Sans', sans-serif;
+  background-color: #424242;
+  color: #BDBDBD;
+  padding: 0.5em;
+  text-align: center;
+  font-size: 0.75em;
+}
+footer a {
+  color: #BDBDBD;
+  text-decoration: none;
+}
+footer a:hover {
+  color: #FFFFFF;
+}
