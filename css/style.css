@@ -6,7 +6,20 @@ html {
   background-color: #212121;
   min-height: 101%; /* I know this is stupid but it is an easy way to make the scrollbar always appear (plus the css now validates) */
 }
+
 #headerimage {
   width: 100%;
   height: auto;
+}
+
+#content {
+  font-family: 'Noto Sans', sans-serif;
+  color: #9E9E9E;
+  width: 50em;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+#hdot {
+  font-size: 4em;
 }
