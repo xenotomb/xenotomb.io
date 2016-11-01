@@ -15,11 +15,17 @@ html {
 #content {
   font-family: 'Noto Sans', sans-serif;
   color: #9E9E9E;
-  width: 50em;
+  width: 60%;
   margin-left: auto;
   margin-right: auto;
 }
 
 #hdot {
   font-size: 4em;
+}
+
+.right {
+  float: right;
+  clear: left;
+  padding: 2em;
 }
