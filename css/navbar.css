@@ -2,6 +2,7 @@ nav ul {
   list-style-type: none;
   margin: 0;
   padding: 0;
+  padding-left: 8em;
   overflow: hidden;
   background-color: #424242;
 }
